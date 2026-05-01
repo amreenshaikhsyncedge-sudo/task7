@@ -87,7 +87,7 @@ nav a {
   margin-top: 40px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
   .logo, .username, .left, .right {
     float: none;
     width: 100%;
@@ -108,7 +108,7 @@ nav a {
     float: none;
   }
 }
-@media (max-width: 380px) {
+@media (max-width: 500px) {
   nav a {
     display: none;
     font-size: 10px;
